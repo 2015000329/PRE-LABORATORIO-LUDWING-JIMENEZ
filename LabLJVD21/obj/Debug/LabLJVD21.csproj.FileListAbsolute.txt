@@ -1,0 +1,12 @@
+C:\Users\USUARIO\source\repos\LabLJVD21\LabLJVD21\bin\Debug\LabLJVD21.exe.config
+C:\Users\USUARIO\source\repos\LabLJVD21\LabLJVD21\bin\Debug\LabLJVD21.exe
+C:\Users\USUARIO\source\repos\LabLJVD21\LabLJVD21\bin\Debug\LabLJVD21.pdb
+C:\Users\USUARIO\source\repos\LabLJVD21\LabLJVD21\obj\Debug\LabLJVD21.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\LabLJVD21\LabLJVD21\obj\Debug\LabLJVD21.Form1.resources
+C:\Users\USUARIO\source\repos\LabLJVD21\LabLJVD21\obj\Debug\LabLJVD21.Form2.resources
+C:\Users\USUARIO\source\repos\LabLJVD21\LabLJVD21\obj\Debug\LabLJVD21.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\LabLJVD21\LabLJVD21\obj\Debug\LabLJVD21.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\LabLJVD21\LabLJVD21\obj\Debug\LabLJVD21.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\LabLJVD21\LabLJVD21\obj\Debug\LabLJVD21.exe
+C:\Users\USUARIO\source\repos\LabLJVD21\LabLJVD21\obj\Debug\LabLJVD21.pdb
+C:\Users\USUARIO\source\repos\LabLJVD21\LabLJVD21\obj\Debug\LabLJVD21.Form3.resources
